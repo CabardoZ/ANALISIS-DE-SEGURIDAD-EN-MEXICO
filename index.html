@@ -1,0 +1,531 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>Dashboard Ejecutivo · Incidencia Delictiva</title>
+
+  <!-- amCharts -->
+  <script src="https://cdn.amcharts.com/lib/4/core.js"></script>
+  <script src="https://cdn.amcharts.com/lib/4/maps.js"></script>
+  <script src="https://cdn.amcharts.com/lib/4/charts.js"></script>
+  <script src="https://cdn.amcharts.com/lib/4/geodata/mexicoLow.js"></script>
+  <script src="https://cdn.amcharts.com/lib/4/themes/animated.js"></script>
+
+  <link rel="stylesheet" href="css/styles.css">
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@500;600;700&family=Inter:wght@300;400;500&display=swap" rel="stylesheet">
+
+</head>
+
+
+<body>
+
+  <header class="site-header">
+  <div class="header-inner">
+
+    <div class="header-brand">
+    </div>
+
+    <nav class="header-nav">
+      <a
+        href="https://www.gob.mx/sesnsp"
+        target="_blank"
+        rel="noopener noreferrer"
+      >
+        Datos
+      </a>
+
+      <a
+        href="https://flying-year-b10.notion.site/PROYECTO-AN-LISIS-DE-DATOS-SOBRE-SEGURIDAD-2a99937c7f4180e7bbe6fb9c1cdb1e35?source=copy_link"
+        target="_blank"
+        rel="noopener noreferrer"
+      >
+        Metodología
+      </a>
+    </nav>
+
+  </div>
+</header>
+
+
+  <!-- =========================
+     HERO PUBLICACIÓN
+========================= -->
+<section class="hero large-hero">
+  <div class="hero-content">
+    <h1>INCIDENCIA DELICTIVA EN MÉXICO (2015-2025)</h1>
+    <p class="hero-subtitle">
+      Una perspectiva abierta de datos por entidad y por delito —
+      explora patrones, tendencias y cifras oficiales en una plataforma
+      pública e interactiva con datos del Secretariado Ejecutivo del 
+      Sistema Nacional de Seguridad Pública.
+    </p>
+    <div class="explore-actions">
+
+  <a href="#map" class="explore-card">
+    
+    <h3>Incidencia delictiva estatal</h3>
+    <p> </p>
+  </a>
+
+  <a href="#barChart" class="explore-card">
+    
+    <h3>Incidencia delictiva fuero estatal por víctimas </h3>
+    <p> </p>
+  </a>
+
+  <a href="#seccion-treemap" class="explore-card">
+    
+    <h3>Delitos federales</h3>
+    <p> </p>
+  </a>
+
+</div>
+
+  </div>
+
+  <div class="hero-bg"></div>
+
+
+</section>
+
+<section class="narrative-divider section-analisis">
+  <div class="divider-texture"></div>
+
+  <div class="divider-content">
+    <span class="divider-eyebrow">Análisis público</span>
+    <h2>INCIDENCIA DELICTIVA POR ENTIDAD FEDERATIVA</h2>
+    <p>
+      Análisis territorial, temporal y estructural que
+      permite comprender la evolución de la violencia en México del mes de enero de 
+      2015 al mes de octubre de 2025.
+    </p>
+  </div>
+
+
+</section>
+
+<div class="footer-divider">
+  <span></span>
+</div>
+
+
+  <!-- =========================
+       CONTROLES SUPERIORES
+  ========================= -->
+  <div class="top-controls">
+
+    <label for="yearSelect"><strong>Año:</strong></label>
+    <select id="yearSelect">
+      <option value="2015">2015</option>
+      <option value="2016">2016</option>
+      <option value="2017">2017</option>
+      <option value="2018">2018</option>
+      <option value="2019">2019</option>
+      <option value="2020">2020</option>
+      <option value="2021">2021</option>
+      <option value="2022" selected>2022</option>
+      <option value="2023">2023</option>
+      <option value="2024">2024</option>
+      <option value="2025">2025</option>
+    </select>
+
+    <label for="crimeSelect"><strong>Delito:</strong></label>
+    <select id="crimeSelect">
+      <option value="homicidio">Homicidio</option>
+      <option value="feminicidio">Feminicidio</option>
+      <option value="secuestro">Secuestro</option>
+      <option value="rapto">Rapto</option>
+      <option value="violencia_familiar">Violencia familiar</option>
+      <option value="violencia_genero">Violencia de género</option>
+      <option value="abuso_sexual">Abuso sexual</option>
+      <option value="acoso_sexual">Acoso sexual</option>
+      <option value="violacion_simple">Violación simple</option>
+      <option value="robo">Robo</option>
+      <option value="fraude">Fraude</option>
+      <option value="extorsion">Extorsión</option>
+      <option value="narcomenudeo">Narcomenudeo</option>
+      <option value="amenazas">Amenazas</option>
+      <option value="aborto">Aborto</option>
+      <option value="abuso_confianza">Abuso de confianza</option>
+      <option value="amenazas">Amenazas</option>
+      <option value="allanamiento_morada">Allanamiento de morada</option>
+      <option value="corrupcion_menores">Corrupción de menores</option>
+      <option value="danio_propiedad">Daño a la propiedad</option>
+      <option value="despojo">Despojo</option>
+      <option value="electorales">Delitos electorales</option>
+      <option value="evasion_presos">Evasión de presos</option>
+      <option value="falsedad">Falsedad</option>
+      <option value="falsificacion">Falsificación</option>
+      <option value="hostigamiento_sexual">Hostigamiento Sexual</option>
+      <option value="incesto">Incesto</option>
+      <option value="incumplimiento_asistencia_familiar">Incumplimiento Asistencia Familiar</option>
+      <option value="medio_ambiente">Medio Ambiente</option>
+      <option value="narcomenudeo">Narcomenudeo</option>
+      <option value="otros_familia">Otros familia</option>
+      <option value="otros_fuero_comun">Otros fuero común</option>
+      <option value="otros_libertad_personal">Otros libertad personal</option>
+      <option value="otros_patrimonio">Otros patrimonio</option>
+      <option value="otros_sociedad">Otros sociedad</option>
+      <option value="otros_vida_integridad">Otros vida integridad</option>
+      <option value="servidores_publicos">Servidores públicos</option>
+      <option value="trafico_menores">Tráfico de menores</option>
+      <option value="trata_personas">Trata de personas</option>
+      <option value="violacion_equiparada">Violación equiparada</option>
+
+    </select>
+
+    <button id="resetChart">Ver nacional</button>
+  </div>
+
+
+  <!-- =========================
+       SECCIÓN SUPERIOR
+  ========================= -->
+  
+  <div class="dashboard-top">
+
+    <!-- MAPA -->
+    <div class="map-container">
+      <div id="map"></div>
+    </div>
+
+    <!-- DERECHA: MENÚ + LÍNEA + PASTEL -->
+    <div class="charts-container">
+
+      <!-- Selector de entidad -->
+      <div class="controls">
+        <label for="stateSelect"><strong>Entidad:</strong></label>
+        <select id="stateSelect">
+          <option value="">Nacional</option>
+          <option value="Aguascalientes">Aguascalientes</option>
+          <option value="Baja_California">Baja California</option>
+          <option value="Baja_California_Sur">Baja California Sur</option>
+          <option value="Campeche">Campeche</option>
+          <option value="Coahuila">Coahuila</option>
+          <option value="Colima">Colima</option>
+          <option value="Chiapas">Chiapas</option>
+          <option value="Chihuahua">Chihuahua</option>
+          <option value="Ciudad_de_Mexico">Ciudad de México</option>
+          <option value="Durango">Durango</option>
+          <option value="Estado_de_Mexico">Estado de México</option>
+          <option value="Guanajuato">Guanajuato</option>
+          <option value="Guerrero">Guerrero</option>
+          <option value="Hidalgo">Hidalgo</option>
+          <option value="Jalisco">Jalisco</option>
+          <option value="Morelos">Morelos</option>
+          <option value="Michoacan">Michoacán</option>
+          <option value="Nayarit">Nayarit</option>
+          <option value="Nuevo_Leon">Nuevo León</option>
+          <option value="Oaxaca">Oaxaca</option>
+          <option value="Puebla">Puebla</option>
+          <option value="Queretaro">Querétaro</option>
+          <option value="Quintana_Roo">Quintana Roo</option>
+          <option value="San_Luis_Potosi">San Luis Potosí</option>
+          <option value="Sinaloa">Sinaloa</option>
+          <option value="Sonora">Sonora</option>
+          <option value="Tabasco">Tabasco</option>
+          <option value="Tamaulipas">Tamaulipas</option>
+          <option value="Tlaxcala">Tlaxcala</option>
+          <option value="Veracruz">Veracruz</option>
+          <option value="Yucatan">Yucatán</option>
+          <option value="Zacatecas">Zacatecas</option>
+          
+        </select>
+      </div>
+
+      <!-- Línea -->
+      <div id="chart"></div>
+
+      <!-- Pastel -->
+      <div id="pieChart"></div>
+
+    </div>
+  </div>
+
+<div class="footer-divider">
+  <span></span>
+</div>
+
+  <div class="divider-glow"></div>
+</div>
+
+  <div class="divider-texture"></div>
+
+<section class="narrative-divider section-comparativos">
+  <div class="divider-texture"></div>
+
+  <div class="divider-content">
+    <span class="divider-eyebrow">Análisis público</span>
+    <h2>INCIDENCIA DELICTIVA DEL FUERO ESTATAL POR VÍCTIMAS</h2>
+    <p>
+      Análisis cuantitativo y temporal del número de víctimas en las treinta y dos entidades
+      federativas de México por delitos, sexo y modalidad de enero de 2015 a octubre de 2025.
+               Consulta la evolución temporal y territorial a través de los menus selectores.
+    </p>
+  </div>
+
+
+</section>
+
+<div class="footer-divider">
+  <span></span>
+</div>
+
+
+
+  <!-- =========================
+       SECCIÓN INFERIOR
+  ========================= -->
+  </section>
+<div class="dashboard-bottom">
+
+  <div class="bottom-left">
+    <h2 class="section-title">
+      Incidencia delictiva fuero estatal por víctimas (2015–2025)
+    </h2>
+    <div id="barChart"></div>
+  </div>
+
+  <div id="sexoStackChart" style="width: 100%; height: 520px;"></div>
+  
+  <!-- MENÚ INTERMEDIO -->
+<!-- CONTENEDOR CORRECTO -->
+<div class="charts-year-group">
+
+  <!-- MENÚ CENTRADO -->
+  <div class="charts-control charts-control--center">
+    <label for="yearCharts">Año</label>
+    <select id="yearCharts">
+      <option value="2015">2015</option>
+      <option value="2016">2016</option>
+      <option value="2017">2017</option>
+      <option value="2018">2018</option>
+      <option value="2019">2019</option>
+      <option value="2020">2020</option>
+      <option value="2021">2021</option>
+      <option value="2022">2022</option>
+      <option value="2023">2023</option>
+      <option value="2024">2024</option>
+      <option value="2025" selected>2025</option>
+    </select>
+  </div>
+
+
+  <!-- GRÁFICO 1 -->
+  <div class="chart-block">
+    <h2 class="section-title">
+      Modalidad del delito por entidad federativa
+    </h2>
+    <div id="modalidadStackChart"></div>
+  </div>
+
+  <label for="monthlyStateSelect"><strong>Entidad:</strong></label>
+        <select id="monthlyStateSelect">
+          <option value="">Nacional</option>
+          <option value="Aguascalientes">Aguascalientes</option>
+          <option value="Baja California">Baja California</option>
+          <option value="Baja California Sur">Baja California Sur</option>
+          <option value="Campeche">Campeche</option>
+          <option value="Coahuila de Zaragoza">Coahuila</option>
+          <option value="Colima">Colima</option>
+          <option value="Chiapas">Chiapas</option>
+          <option value="Chihuahua">Chihuahua</option>
+          <option value="Ciudad de México">Ciudad de México</option>
+          <option value="Durango">Durango</option>
+          <option value="México">Estado de México</option>
+          <option value="Guanajuato">Guanajuato</option>
+          <option value="Guerrero">Guerrero</option>
+          <option value="Hidalgo">Hidalgo</option>
+          <option value="Jalisco">Jalisco</option>
+          <option value="Morelos">Morelos</option>
+          <option value="Michoacán de Ocampo">Michoacán</option>
+          <option value="Nayarit">Nayarit</option>
+          <option value="Nuevo León">Nuevo León</option>
+          <option value="Oaxaca">Oaxaca</option>
+          <option value="Puebla">Puebla</option>
+          <option value="Querétaro">Querétaro</option>
+          <option value="Quintana Roo">Quintana Roo</option>
+          <option value="San Luis Potosí">San Luis Potosí</option>
+          <option value="Sinaloa">Sinaloa</option>
+          <option value="Sonora">Sonora</option>
+          <option value="Tabasco">Tabasco</option>
+          <option value="Tamaulipas">Tamaulipas</option>
+          <option value="Tlaxcala">Tlaxcala</option>
+          <option value="Veracruz de Ignacio de la Llave">Veracruz</option>
+          <option value="Yucatán">Yucatán</option>
+          <option value="Zacatecas">Zacatecas</option>
+
+          </select>
+
+  <!-- GRÁFICO 2 -->
+  <div class="chart-block">
+    <div id="monthlyChart"></div>
+  </div>
+
+</div>
+
+
+
+  <div class="divider-glow"></div>
+</div>
+
+
+
+  <div class="divider-texture"></div>
+
+<section class="narrative-divider section-federales">
+  <div class="divider-texture"></div>
+
+  <div class="divider-content">
+    <span class="divider-eyebrow">Análisis público</span>
+    <h2>INCIDENCIA DELICTIVA DEL FUERO FEDERAL</h2>
+    <p>
+      Análisis distributivo del número de delitos del fuero federal
+      cometidos en México, comprendido de enero de 2015 a octubre de 2025.
+    </p>
+  </div>
+
+
+</section>
+
+<div class="footer-divider">
+  <span></span>
+</div>
+
+
+
+
+ <!-- =========================
+       SECCIÓN TREEMAP
+  ========================= -->
+<section id="seccion-treemap">
+
+  </div>
+    <h2 class="section-title">Delitos federales</h2>
+    <div class="treemap-controls">
+  <label>Entidad:</label>
+  <select id="treemapEntidad">
+    <option value="">Seleccione entidad</option>
+    <option value="AGUASCALIENTES">Aguascalientes</option>
+    <option value="BAJA CALIFORNIA">Baja California</option>
+    <option value="BAJA CALIFORNIA SUR">Baja California Sur</option>
+    <option value="CAMPECHE">Campeche</option>
+    <option value="COAHUILA">Coahuila</option>
+    <option value="COLIMA">Colima</option>
+    <Option value="CHIAPAS">Chiapas</Option>
+    <Option value="CHIHUAHUA">Chihuahua</Option>
+    <Option value="CIUDAD DE MEXICO">Ciudad de México</Option>
+    <Option value="DURANGO">Durango</Option>
+    <Option value="GUANAJUATO">Guanajuato</Option>
+    <Option value="GUERRERO">Guerrero</Option>
+    <Option value="HIDALGO">Hidalgo</Option>
+    <Option value="JALISCO">Jalisco</Option>
+    <Option value="MEXICO">Estado de México</Option>
+    <Option value="MICHOACAN">Michoacán</Option>
+    <option value="MORELOS">Morelos</option>
+    <Option value="NAYARIT">Nayarit</Option>
+    <Option value="NUEVO LEON">Nuevo León</Option>
+    <Option value="OAXACA">Oaxaca</Option>
+    <Option value="PUEBLA">Puebla</Option>
+    <Option value="QUERETARO">Querétaro</Option>
+    <Option value="QUINTANA ROO">Quintana Roo</Option>
+    <Option value="SAN LUIS POTOSI">San Luis Potosí</Option>
+    <Option value="SINALOA">Sinaloa</Option>
+    <Option value="SONORA">Sonora</Option>
+    <Option value="TABASCO">Tabasco</Option>
+    <Option value="TAMAULIPAS">Tamaulipas</Option>
+    <Option value="TLAXCALA">Tlaxcala</Option>
+    <Option value="VERACRUZ">Veracruz</Option>
+    <Option value="YUCATAN">Yucatán</Option>
+    <Option value="ZACATECAS">Zacatecas</Option>
+    
+    
+    <!-- agregue las que ya tenga en data -->
+  </select>
+
+  <label>Año:</label>
+  <select id="treemapYear">
+    <option value="2025" selected>2025</option>
+    <option value="2024">2024</option>
+    <option value="2023">2023</option>
+    <option value="2022">2022</option>
+    <option value="2021">2021</option>
+    <option value="2020">2020</option>
+    <option value="2019">2019</option>
+    <option value="2018">2018</option>
+    <option value="2017">2017</option>
+    <option value="2016">2016</option>
+    <option value="2015">2015</option>
+    <option value="2014">2014</option>
+    <option value="2013">2013</option>
+    <option value="2012">2012</option>
+  </select>
+</div>
+
+    <div id="treemap" style="width: 100%; height: 420px;"></div>
+  </section>
+
+  <div class="footer-divider">
+  <span></span>
+</div>
+
+<footer class="site-footer">
+  <div class="footer-box">
+    <p class="footer-author">
+      Elaborado por<br>
+      <strong>Eduardo Cabrera Gutiérrez</strong>
+    </p>
+
+    <div class="footer-links">
+      <a href="https://www.linkedin.com/in/eduardo-cabrera-guti%C3%A9rrez-00bb221b7/" target="_blank">
+        LinkedIn
+      </a>
+      <a href="https://portafolio-de-eduardo-cabrera.webflow.io/" target="_blank">
+        Portafolio de proyectos
+      </a>
+    </div>
+
+    <span class="footer-year">2025</span>
+  </div>
+</footer>
+
+
+
+
+<script>
+  const footer = document.querySelector(".site-footer");
+
+  const observer = new IntersectionObserver(
+    ([entry]) => {
+      if (entry.isIntersecting) {
+        footer.classList.add("footer-visible");
+      }
+    },
+    {
+      threshold: 0.25
+    }
+  );
+
+  observer.observe(footer);
+</script>
+
+<script>
+  const dividers = document.querySelectorAll(".divider-content");
+
+  const dividerObserver = new IntersectionObserver(
+    entries => {
+      entries.forEach(entry => {
+        if (entry.isIntersecting) {
+          entry.target.classList.add("visible");
+        }
+      });
+    },
+    { threshold: 0.35 }
+  );
+
+  dividers.forEach(div => dividerObserver.observe(div));
+</script>
+
+  <script src="js/map.js"></script>
+</body>
+</html>
