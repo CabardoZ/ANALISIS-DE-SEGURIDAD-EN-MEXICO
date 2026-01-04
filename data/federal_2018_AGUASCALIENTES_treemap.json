@@ -1,0 +1,116 @@
+[
+  {
+    "name": "AGUASCALIENTES · 2018",
+    "children": [
+      {
+        "name": "CONTRA LA SALUD",
+        "children": [
+          {
+            "name": "POSESION",
+            "value": 85
+          },
+          {
+            "name": "PRODUCCION",
+            "value": 7
+          },
+          {
+            "name": "TRANSPORTE",
+            "value": 5
+          }
+        ]
+      },
+      {
+        "name": "LEY FEDERAL CONTRA LA DELINCUENCIA ORGANIZADA (L.F.C.D.O.)",
+        "children": [
+          {
+            "name": "CONTRA LA SALUD",
+            "value": 1
+          },
+          {
+            "name": "OTROS DELITOS PREVISTOS EN LA L.F.C.D.O.",
+            "value": 1
+          }
+        ]
+      },
+      {
+        "name": "LEY GENERAL DE SALUD (L.G.S.)",
+        "children": [
+          {
+            "name": "CONTRA LA SALUD EN SU MODALIDAD DE NARCOMENUDEO",
+            "value": 44
+          },
+          {
+            "name": "OTROS DELITOS PREVISTOS EN LA L.G.S.",
+            "value": 1
+          }
+        ]
+      },
+      {
+        "name": "OTRAS LEYES Y CODIGOS",
+        "children": [
+          {
+            "name": "CODIGO FISCAL DE LA FEDERACION (C.F.F.)",
+            "value": 34
+          },
+          {
+            "name": "LEY DE LA PROPIEDAD INDUSTRIAL (L.P.I.)",
+            "value": 4
+          },
+          {
+            "name": "LEY DE MIGRACION",
+            "value": 3
+          },
+          {
+            "name": "LEY DE VIAS GENERALES DE COMUNICACION (L.V.G.C.)",
+            "value": 46
+          },
+          {
+            "name": "LEY FEDERAL DE ARMAS DE FUEGO Y EXPLOSIVOS (L.F.A.F.E.)",
+            "value": 195
+          },
+          {
+            "name": "LEYES DE INSTITUCIONES DE CREDITO, INVERSION, FIANZAS Y SEGUROS",
+            "value": 13
+          },
+          {
+            "name": "OTRAS LEYES ESPECIALES",
+            "value": 30
+          }
+        ]
+      },
+      {
+        "name": "OTROS DELITOS",
+        "children": [
+          {
+            "name": "COMETIDOS POR SERVIDORES PUBLICOS",
+            "value": 8
+          },
+          {
+            "name": "CONTRA EL AMBIENTE Y LA GESTION AMBIENTAL",
+            "value": 8
+          },
+          {
+            "name": "CONTRA LA INTEGRIDAD CORPORAL",
+            "value": 6
+          },
+          {
+            "name": "FALSEDAD, TITULO DECIMO TERCERO",
+            "value": 25
+          },
+          {
+            "name": "OTROS DELITOS DEL C.P.F.",
+            "value": 80
+          },
+          {
+            "name": "PATRIMONIALES",
+            "value": 172
+          },
+          {
+            "name": "VIAS DE COMUNICACION Y CORRESPONDENCIA",
+            "value": 4
+          }
+        ]
+      }
+    ]
+  }
+]

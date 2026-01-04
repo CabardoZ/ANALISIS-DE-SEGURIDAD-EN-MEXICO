@@ -1,0 +1,59 @@
+[
+  {
+    "name": "EXTRANJERO · 2012",
+    "children": [
+      {
+        "name": "CONTRA LA SALUD",
+        "children": [
+          {
+            "name": "PRODUCCION",
+            "value": 1
+          }
+        ]
+      },
+      {
+        "name": "LEY FEDERAL CONTRA LA DELINCUENCIA ORGANIZADA (L.F.C.D.O.)",
+        "children": [
+          {
+            "name": "OTROS DELITOS PREVISTOS EN LA L.F.C.D.O.",
+            "value": 4
+          }
+        ]
+      },
+      {
+        "name": "OTRAS LEYES Y CODIGOS",
+        "children": [
+          {
+            "name": "OTRAS LEYES ESPECIALES",
+            "value": 23
+          }
+        ]
+      },
+      {
+        "name": "OTROS DELITOS",
+        "children": [
+          {
+            "name": "COMETIDOS POR SERVIDORES PUBLICOS",
+            "value": 1
+          },
+          {
+            "name": "CONTRA LA INTEGRIDAD CORPORAL",
+            "value": 6
+          },
+          {
+            "name": "FALSEDAD, TITULO DECIMO TERCERO",
+            "value": 9
+          },
+          {
+            "name": "OTROS DELITOS DEL C.P.F.",
+            "value": 18
+          },
+          {
+            "name": "PATRIMONIALES",
+            "value": 21
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,132 @@
+[
+  {
+    "name": "QUERETARO · 2012",
+    "children": [
+      {
+        "name": "CONTRA LA SALUD",
+        "children": [
+          {
+            "name": "COMERCIO",
+            "value": 6
+          },
+          {
+            "name": "OTROS",
+            "value": 27
+          },
+          {
+            "name": "POSESION",
+            "value": 27
+          },
+          {
+            "name": "PRODUCCION",
+            "value": 3
+          },
+          {
+            "name": "SUMINISTRO",
+            "value": 1
+          },
+          {
+            "name": "TRANSPORTE",
+            "value": 9
+          }
+        ]
+      },
+      {
+        "name": "LEY FEDERAL CONTRA LA DELINCUENCIA ORGANIZADA (L.F.C.D.O.)",
+        "children": [
+          {
+            "name": "OTROS DELITOS PREVISTOS EN LA L.F.C.D.O.",
+            "value": 11
+          }
+        ]
+      },
+      {
+        "name": "LEY GENERAL DE SALUD (L.G.S.)",
+        "children": [
+          {
+            "name": "CONTRA LA SALUD EN SU MODALIDAD DE NARCOMENUDEO",
+            "value": 360
+          },
+          {
+            "name": "OTROS DELITOS PREVISTOS EN LA L.G.S.",
+            "value": 32
+          }
+        ]
+      },
+      {
+        "name": "OTRAS LEYES Y CODIGOS",
+        "children": [
+          {
+            "name": "CODIGO FISCAL DE LA FEDERACION (C.F.F.)",
+            "value": 104
+          },
+          {
+            "name": "LEY DE LA PROPIEDAD INDUSTRIAL (L.P.I.)",
+            "value": 31
+          },
+          {
+            "name": "LEY DE VIAS GENERALES DE COMUNICACION (L.V.G.C.)",
+            "value": 5
+          },
+          {
+            "name": "LEY FEDERAL DE ARMAS DE FUEGO Y EXPLOSIVOS (L.F.A.F.E.)",
+            "value": 246
+          },
+          {
+            "name": "LEY FEDERAL DEL DERECHO DE AUTOR (L.F.D.A.)",
+            "value": 8
+          },
+          {
+            "name": "LEYES DE INSTITUCIONES DE CREDITO, INVERSION, FIANZAS Y SEGUROS",
+            "value": 33
+          },
+          {
+            "name": "OTRAS LEYES ESPECIALES",
+            "value": 25
+          }
+        ]
+      },
+      {
+        "name": "OTROS DELITOS",
+        "children": [
+          {
+            "name": "COMETIDOS POR SERVIDORES PUBLICOS",
+            "value": 53
+          },
+          {
+            "name": "CONTRA EL AMBIENTE Y LA GESTION AMBIENTAL",
+            "value": 27
+          },
+          {
+            "name": "CONTRA LA INTEGRIDAD CORPORAL",
+            "value": 3
+          },
+          {
+            "name": "ELECTORALES",
+            "value": 14
+          },
+          {
+            "name": "EN MATERIA DE DERECHOS DE AUTOR",
+            "value": 7
+          },
+          {
+            "name": "FALSEDAD, TITULO DECIMO TERCERO",
+            "value": 80
+          },
+          {
+            "name": "OTROS DELITOS DEL C.P.F.",
+            "value": 85
+          },
+          {
+            "name": "PATRIMONIALES",
+            "value": 216
+          },
+          {
+            "name": "VIAS DE COMUNICACION Y CORRESPONDENCIA",
+            "value": 5
+          }
+        ]
+      }
+    ]
+  }
+]

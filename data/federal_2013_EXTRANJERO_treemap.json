@@ -1,0 +1,63 @@
+[
+  {
+    "name": "EXTRANJERO · 2013",
+    "children": [
+      {
+        "name": "CONTRA LA SALUD",
+        "children": [
+          {
+            "name": "OTROS",
+            "value": 1
+          }
+        ]
+      },
+      {
+        "name": "LEY FEDERAL CONTRA LA DELINCUENCIA ORGANIZADA (L.F.C.D.O.)",
+        "children": [
+          {
+            "name": "OTROS DELITOS PREVISTOS EN LA L.F.C.D.O.",
+            "value": 2
+          }
+        ]
+      },
+      {
+        "name": "OTRAS LEYES Y CODIGOS",
+        "children": [
+          {
+            "name": "LEYES DE INSTITUCIONES DE CREDITO, INVERSION, FIANZAS Y SEGUROS",
+            "value": 1
+          },
+          {
+            "name": "OTRAS LEYES ESPECIALES",
+            "value": 10
+          }
+        ]
+      },
+      {
+        "name": "OTROS DELITOS",
+        "children": [
+          {
+            "name": "COMETIDOS POR SERVIDORES PUBLICOS",
+            "value": 4
+          },
+          {
+            "name": "CONTRA LA INTEGRIDAD CORPORAL",
+            "value": 3
+          },
+          {
+            "name": "FALSEDAD, TITULO DECIMO TERCERO",
+            "value": 96
+          },
+          {
+            "name": "OTROS DELITOS DEL C.P.F.",
+            "value": 35
+          },
+          {
+            "name": "PATRIMONIALES",
+            "value": 15
+          }
+        ]
+      }
+    ]
+  }
+]

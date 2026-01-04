@@ -1,0 +1,132 @@
+[
+  {
+    "name": "SONORA · 2018",
+    "children": [
+      {
+        "name": "CONTRA LA SALUD",
+        "children": [
+          {
+            "name": "OTROS",
+            "value": 84
+          },
+          {
+            "name": "POSESION",
+            "value": 205
+          },
+          {
+            "name": "PRODUCCION",
+            "value": 109
+          },
+          {
+            "name": "TRAFICO",
+            "value": 11
+          },
+          {
+            "name": "TRANSPORTE",
+            "value": 12
+          }
+        ]
+      },
+      {
+        "name": "LEY FEDERAL CONTRA LA DELINCUENCIA ORGANIZADA (L.F.C.D.O.)",
+        "children": [
+          {
+            "name": "CONTRA LA SALUD",
+            "value": 4
+          },
+          {
+            "name": "OTROS DELITOS PREVISTOS EN LA L.F.C.D.O.",
+            "value": 3
+          }
+        ]
+      },
+      {
+        "name": "LEY GENERAL DE SALUD (L.G.S.)",
+        "children": [
+          {
+            "name": "CONTRA LA SALUD EN SU MODALIDAD DE NARCOMENUDEO",
+            "value": 182
+          },
+          {
+            "name": "OTROS DELITOS PREVISTOS EN LA L.G.S.",
+            "value": 2
+          }
+        ]
+      },
+      {
+        "name": "OTRAS LEYES Y CODIGOS",
+        "children": [
+          {
+            "name": "CODIGO FISCAL DE LA FEDERACION (C.F.F.)",
+            "value": 312
+          },
+          {
+            "name": "LEY DE LA PROPIEDAD INDUSTRIAL (L.P.I.)",
+            "value": 31
+          },
+          {
+            "name": "LEY DE MIGRACION",
+            "value": 6
+          },
+          {
+            "name": "LEY DE VIAS GENERALES DE COMUNICACION (L.V.G.C.)",
+            "value": 45
+          },
+          {
+            "name": "LEY FEDERAL DE ARMAS DE FUEGO Y EXPLOSIVOS (L.F.A.F.E.)",
+            "value": 499
+          },
+          {
+            "name": "LEYES DE INSTITUCIONES DE CREDITO, INVERSION, FIANZAS Y SEGUROS",
+            "value": 6
+          },
+          {
+            "name": "OTRAS LEYES ESPECIALES",
+            "value": 77
+          }
+        ]
+      },
+      {
+        "name": "OTROS DELITOS",
+        "children": [
+          {
+            "name": "COMETIDOS POR SERVIDORES PUBLICOS",
+            "value": 26
+          },
+          {
+            "name": "CONTRA EL AMBIENTE Y LA GESTION AMBIENTAL",
+            "value": 11
+          },
+          {
+            "name": "CONTRA LA INTEGRIDAD CORPORAL",
+            "value": 10
+          },
+          {
+            "name": "ELECTORALES",
+            "value": 5
+          },
+          {
+            "name": "EN MATERIA DE DERECHOS DE AUTOR",
+            "value": 1
+          },
+          {
+            "name": "FALSEDAD, TITULO DECIMO TERCERO",
+            "value": 36
+          },
+          {
+            "name": "OTROS DELITOS DEL C.P.F.",
+            "value": 129
+          },
+          {
+            "name": "PATRIMONIALES",
+            "value": 914
+          },
+          {
+            "name": "VIAS DE COMUNICACION Y CORRESPONDENCIA",
+            "value": 39
+          }
+        ]
+      }
+    ]
+  }
+]

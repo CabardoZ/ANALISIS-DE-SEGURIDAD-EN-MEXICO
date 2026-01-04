@@ -1,0 +1,124 @@
+[
+  {
+    "name": "CAMPECHE · 2021",
+    "children": [
+      {
+        "name": "CONTRA LA SALUD",
+        "children": [
+          {
+            "name": "COMERCIO",
+            "value": 4
+          },
+          {
+            "name": "OTROS",
+            "value": 1
+          },
+          {
+            "name": "POSESION",
+            "value": 11
+          },
+          {
+            "name": "TRAFICO",
+            "value": 2
+          },
+          {
+            "name": "TRANSPORTE",
+            "value": 18
+          }
+        ]
+      },
+      {
+        "name": "LEY FEDERAL CONTRA LA DELINCUENCIA ORGANIZADA (L.F.C.D.O.)",
+        "children": [
+          {
+            "name": "OTROS DELITOS PREVISTOS EN LA L.F.C.D.O.",
+            "value": 1
+          }
+        ]
+      },
+      {
+        "name": "LEY GENERAL DE SALUD (L.G.S.)",
+        "children": [
+          {
+            "name": "OTROS DELITOS PREVISTOS EN LA L.G.S.",
+            "value": 2
+          }
+        ]
+      },
+      {
+        "name": "OTRAS LEYES Y CODIGOS",
+        "children": [
+          {
+            "name": "CODIGO FISCAL DE LA FEDERACION (C.F.F.)",
+            "value": 22
+          },
+          {
+            "name": "LEY DE MIGRACION",
+            "value": 2
+          },
+          {
+            "name": "LEY DE VIAS GENERALES DE COMUNICACION (L.V.G.C.)",
+            "value": 23
+          },
+          {
+            "name": "LEY FEDERAL DE ARMAS DE FUEGO Y EXPLOSIVOS (L.F.A.F.E.)",
+            "value": 48
+          },
+          {
+            "name": "LEY FEDERAL PARA PREVENIR Y SANCIONAR LOS DELITOS COMETIDOS EN MATERIA DE HIDROCARBUROS (L.F.P.S.D.C.M.H.)",
+            "value": 15
+          },
+          {
+            "name": "LEY GENERAL EN MATERIA DE DELITOS ELECTORALES (L.G.M.D.E.)",
+            "value": 22
+          },
+          {
+            "name": "LEYES DE INSTITUCIONES DE CREDITO, INVERSION, FIANZAS Y SEGUROS",
+            "value": 2
+          },
+          {
+            "name": "OTRAS LEYES ESPECIALES",
+            "value": 22
+          }
+        ]
+      },
+      {
+        "name": "OTROS DELITOS",
+        "children": [
+          {
+            "name": "COMETIDOS POR SERVIDORES PUBLICOS",
+            "value": 37
+          },
+          {
+            "name": "CONTRA EL AMBIENTE Y LA GESTION AMBIENTAL",
+            "value": 44
+          },
+          {
+            "name": "CONTRA LA INTEGRIDAD CORPORAL",
+            "value": 12
+          },
+          {
+            "name": "EN MATERIA DE DERECHOS DE AUTOR",
+            "value": 4
+          },
+          {
+            "name": "FALSEDAD, TITULO DECIMO TERCERO",
+            "value": 7
+          },
+          {
+            "name": "OTROS DELITOS DEL C.P.F.",
+            "value": 30
+          },
+          {
+            "name": "PATRIMONIALES",
+            "value": 128
+          },
+          {
+            "name": "VIAS DE COMUNICACION Y CORRESPONDENCIA",
+            "value": 4
+          }
+        ]
+      }
+    ]
+  }
+]

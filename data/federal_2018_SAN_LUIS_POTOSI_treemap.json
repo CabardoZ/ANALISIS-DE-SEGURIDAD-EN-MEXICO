@@ -1,0 +1,115 @@
+[
+  {
+    "name": "SAN_LUIS_POTOSI · 2018",
+    "children": [
+      {
+        "name": "CONTRA LA SALUD",
+        "children": [
+          {
+            "name": "COMERCIO",
+            "value": 27
+          },
+          {
+            "name": "OTROS",
+            "value": 1
+          },
+          {
+            "name": "POSESION",
+            "value": 41
+          },
+          {
+            "name": "PRODUCCION",
+            "value": 1
+          },
+          {
+            "name": "SUMINISTRO",
+            "value": 1
+          },
+          {
+            "name": "TRANSPORTE",
+            "value": 219
+          }
+        ]
+      },
+      {
+        "name": "LEY GENERAL DE SALUD (L.G.S.)",
+        "children": [
+          {
+            "name": "CONTRA LA SALUD EN SU MODALIDAD DE NARCOMENUDEO",
+            "value": 9
+          }
+        ]
+      },
+      {
+        "name": "OTRAS LEYES Y CODIGOS",
+        "children": [
+          {
+            "name": "CODIGO FISCAL DE LA FEDERACION (C.F.F.)",
+            "value": 61
+          },
+          {
+            "name": "LEY DE LA PROPIEDAD INDUSTRIAL (L.P.I.)",
+            "value": 1
+          },
+          {
+            "name": "LEY DE MIGRACION",
+            "value": 18
+          },
+          {
+            "name": "LEY DE VIAS GENERALES DE COMUNICACION (L.V.G.C.)",
+            "value": 51
+          },
+          {
+            "name": "LEY FEDERAL DE ARMAS DE FUEGO Y EXPLOSIVOS (L.F.A.F.E.)",
+            "value": 333
+          },
+          {
+            "name": "LEYES DE INSTITUCIONES DE CREDITO, INVERSION, FIANZAS Y SEGUROS",
+            "value": 5
+          },
+          {
+            "name": "OTRAS LEYES ESPECIALES",
+            "value": 62
+          }
+        ]
+      },
+      {
+        "name": "OTROS DELITOS",
+        "children": [
+          {
+            "name": "COMETIDOS POR SERVIDORES PUBLICOS",
+            "value": 9
+          },
+          {
+            "name": "CONTRA EL AMBIENTE Y LA GESTION AMBIENTAL",
+            "value": 1
+          },
+          {
+            "name": "CONTRA LA INTEGRIDAD CORPORAL",
+            "value": 6
+          },
+          {
+            "name": "EN MATERIA DE DERECHOS DE AUTOR",
+            "value": 4
+          },
+          {
+            "name": "FALSEDAD, TITULO DECIMO TERCERO",
+            "value": 28
+          },
+          {
+            "name": "OTROS DELITOS DEL C.P.F.",
+            "value": 147
+          },
+          {
+            "name": "PATRIMONIALES",
+            "value": 576
+          },
+          {
+            "name": "VIAS DE COMUNICACION Y CORRESPONDENCIA",
+            "value": 4
+          }
+        ]
+      }
+    ]
+  }
+]

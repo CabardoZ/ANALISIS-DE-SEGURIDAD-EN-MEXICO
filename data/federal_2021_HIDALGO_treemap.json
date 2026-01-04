@@ -1,0 +1,136 @@
+[
+  {
+    "name": "HIDALGO · 2021",
+    "children": [
+      {
+        "name": "CONTRA LA SALUD",
+        "children": [
+          {
+            "name": "COMERCIO",
+            "value": 7
+          },
+          {
+            "name": "OTROS",
+            "value": 19
+          },
+          {
+            "name": "POSESION",
+            "value": 21
+          },
+          {
+            "name": "PRODUCCION",
+            "value": 3
+          },
+          {
+            "name": "TRAFICO",
+            "value": 10
+          },
+          {
+            "name": "TRANSPORTE",
+            "value": 4
+          }
+        ]
+      },
+      {
+        "name": "LEY FEDERAL CONTRA LA DELINCUENCIA ORGANIZADA (L.F.C.D.O.)",
+        "children": [
+          {
+            "name": "OTROS DELITOS PREVISTOS EN LA L.F.C.D.O.",
+            "value": 5
+          }
+        ]
+      },
+      {
+        "name": "LEY GENERAL DE SALUD (L.G.S.)",
+        "children": [
+          {
+            "name": "CONTRA LA SALUD EN SU MODALIDAD DE NARCOMENUDEO",
+            "value": 9
+          },
+          {
+            "name": "OTROS DELITOS PREVISTOS EN LA L.G.S.",
+            "value": 2
+          }
+        ]
+      },
+      {
+        "name": "OTRAS LEYES Y CODIGOS",
+        "children": [
+          {
+            "name": "CODIGO FISCAL DE LA FEDERACION (C.F.F.)",
+            "value": 22
+          },
+          {
+            "name": "LEY DE LA PROPIEDAD INDUSTRIAL (L.P.I.)",
+            "value": 5
+          },
+          {
+            "name": "LEY DE MIGRACION",
+            "value": 18
+          },
+          {
+            "name": "LEY DE VIAS GENERALES DE COMUNICACION (L.V.G.C.)",
+            "value": 74
+          },
+          {
+            "name": "LEY FEDERAL DE ARMAS DE FUEGO Y EXPLOSIVOS (L.F.A.F.E.)",
+            "value": 217
+          },
+          {
+            "name": "LEY FEDERAL PARA PREVENIR Y SANCIONAR LOS DELITOS COMETIDOS EN MATERIA DE HIDROCARBUROS (L.F.P.S.D.C.M.H.)",
+            "value": 1383
+          },
+          {
+            "name": "LEY GENERAL EN MATERIA DE DELITOS ELECTORALES (L.G.M.D.E.)",
+            "value": 26
+          },
+          {
+            "name": "LEYES DE INSTITUCIONES DE CREDITO, INVERSION, FIANZAS Y SEGUROS",
+            "value": 347
+          },
+          {
+            "name": "OTRAS LEYES ESPECIALES",
+            "value": 62
+          }
+        ]
+      },
+      {
+        "name": "OTROS DELITOS",
+        "children": [
+          {
+            "name": "COMETIDOS POR SERVIDORES PUBLICOS",
+            "value": 86
+          },
+          {
+            "name": "CONTRA EL AMBIENTE Y LA GESTION AMBIENTAL",
+            "value": 23
+          },
+          {
+            "name": "CONTRA LA INTEGRIDAD CORPORAL",
+            "value": 14
+          },
+          {
+            "name": "EN MATERIA DE DERECHOS DE AUTOR",
+            "value": 2
+          },
+          {
+            "name": "FALSEDAD, TITULO DECIMO TERCERO",
+            "value": 43
+          },
+          {
+            "name": "OTROS DELITOS DEL C.P.F.",
+            "value": 108
+          },
+          {
+            "name": "PATRIMONIALES",
+            "value": 729
+          },
+          {
+            "name": "VIAS DE COMUNICACION Y CORRESPONDENCIA",
+            "value": 50
+          }
+        ]
+      }
+    ]
+  }
+]

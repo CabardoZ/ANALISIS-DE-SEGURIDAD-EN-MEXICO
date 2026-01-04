@@ -1,0 +1,107 @@
+[
+  {
+    "name": "CAMPECHE · 2023",
+    "children": [
+      {
+        "name": "CONTRA LA SALUD",
+        "children": [
+          {
+            "name": "COMERCIO",
+            "value": 4
+          },
+          {
+            "name": "POSESION",
+            "value": 10
+          },
+          {
+            "name": "TRAFICO",
+            "value": 1
+          },
+          {
+            "name": "TRANSPORTE",
+            "value": 6
+          }
+        ]
+      },
+      {
+        "name": "LEY GENERAL DE SALUD (L.G.S.)",
+        "children": [
+          {
+            "name": "CONTRA LA SALUD EN SU MODALIDAD DE NARCOMENUDEO",
+            "value": 3
+          }
+        ]
+      },
+      {
+        "name": "OTRAS LEYES Y CODIGOS",
+        "children": [
+          {
+            "name": "CODIGO FISCAL DE LA FEDERACION (C.F.F.)",
+            "value": 20
+          },
+          {
+            "name": "LEY DE MIGRACION",
+            "value": 21
+          },
+          {
+            "name": "LEY DE VIAS GENERALES DE COMUNICACION (L.V.G.C.)",
+            "value": 14
+          },
+          {
+            "name": "LEY FEDERAL DE ARMAS DE FUEGO Y EXPLOSIVOS (L.F.A.F.E.)",
+            "value": 83
+          },
+          {
+            "name": "LEY FEDERAL PARA PREVENIR Y SANCIONAR LOS DELITOS COMETIDOS EN MATERIA DE HIDROCARBUROS (L.F.P.S.D.C.M.H.)",
+            "value": 31
+          },
+          {
+            "name": "LEY GENERAL EN MATERIA DE DELITOS ELECTORALES (L.G.M.D.E.)",
+            "value": 5
+          },
+          {
+            "name": "OTRAS LEYES ESPECIALES",
+            "value": 15
+          }
+        ]
+      },
+      {
+        "name": "OTROS DELITOS",
+        "children": [
+          {
+            "name": "COMETIDOS POR SERVIDORES PUBLICOS",
+            "value": 29
+          },
+          {
+            "name": "CONTRA EL AMBIENTE Y LA GESTION AMBIENTAL",
+            "value": 65
+          },
+          {
+            "name": "CONTRA LA INTEGRIDAD CORPORAL",
+            "value": 7
+          },
+          {
+            "name": "EN MATERIA DE DERECHOS DE AUTOR",
+            "value": 1
+          },
+          {
+            "name": "FALSEDAD, TITULO DECIMO TERCERO",
+            "value": 20
+          },
+          {
+            "name": "OTROS DELITOS DEL C.P.F.",
+            "value": 30
+          },
+          {
+            "name": "PATRIMONIALES",
+            "value": 110
+          },
+          {
+            "name": "VIAS DE COMUNICACION Y CORRESPONDENCIA",
+            "value": 12
+          }
+        ]
+      }
+    ]
+  }
+]

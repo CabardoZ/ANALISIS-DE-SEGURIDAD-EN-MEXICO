@@ -1,0 +1,128 @@
+[
+  {
+    "name": "TABASCO · 2025",
+    "children": [
+      {
+        "name": "CONTRA LA SALUD",
+        "children": [
+          {
+            "name": "COMERCIO",
+            "value": 10
+          },
+          {
+            "name": "OTROS",
+            "value": 1
+          },
+          {
+            "name": "POSESION",
+            "value": 10
+          },
+          {
+            "name": "TRAFICO",
+            "value": 5
+          },
+          {
+            "name": "TRANSPORTE",
+            "value": 5
+          }
+        ]
+      },
+      {
+        "name": "LEY FEDERAL CONTRA LA DELINCUENCIA ORGANIZADA (L.F.C.D.O.)",
+        "children": [
+          {
+            "name": "OTROS DELITOS PREVISTOS EN LA L.F.C.D.O.",
+            "value": 5
+          }
+        ]
+      },
+      {
+        "name": "LEY GENERAL DE SALUD (L.G.S.)",
+        "children": [
+          {
+            "name": "CONTRA LA SALUD EN SU MODALIDAD DE NARCOMENUDEO",
+            "value": 46
+          },
+          {
+            "name": "OTROS DELITOS PREVISTOS EN LA L.G.S.",
+            "value": 1
+          }
+        ]
+      },
+      {
+        "name": "OTRAS LEYES Y CODIGOS",
+        "children": [
+          {
+            "name": "CODIGO FISCAL DE LA FEDERACION (C.F.F.)",
+            "value": 17
+          },
+          {
+            "name": "LEY DE LA PROPIEDAD INDUSTRIAL (L.P.I.)",
+            "value": 5
+          },
+          {
+            "name": "LEY DE MIGRACION",
+            "value": 11
+          },
+          {
+            "name": "LEY DE VIAS GENERALES DE COMUNICACION (L.V.G.C.)",
+            "value": 206
+          },
+          {
+            "name": "LEY FEDERAL DE ARMAS DE FUEGO Y EXPLOSIVOS (L.F.A.F.E.)",
+            "value": 494
+          },
+          {
+            "name": "LEY FEDERAL PARA PREVENIR Y SANCIONAR LOS DELITOS COMETIDOS EN MATERIA DE HIDROCARBUROS (L.F.P.S.D.C.M.H.)",
+            "value": 416
+          },
+          {
+            "name": "LEY GENERAL EN MATERIA DE DELITOS ELECTORALES (L.G.M.D.E.)",
+            "value": 5
+          },
+          {
+            "name": "LEYES DE INSTITUCIONES DE CREDITO, INVERSION, FIANZAS Y SEGUROS",
+            "value": 4
+          },
+          {
+            "name": "OTRAS LEYES ESPECIALES",
+            "value": 42
+          }
+        ]
+      },
+      {
+        "name": "OTROS DELITOS",
+        "children": [
+          {
+            "name": "COMETIDOS POR SERVIDORES PUBLICOS",
+            "value": 70
+          },
+          {
+            "name": "CONTRA EL AMBIENTE Y LA GESTION AMBIENTAL",
+            "value": 27
+          },
+          {
+            "name": "CONTRA LA INTEGRIDAD CORPORAL",
+            "value": 12
+          },
+          {
+            "name": "FALSEDAD, TITULO DECIMO TERCERO",
+            "value": 17
+          },
+          {
+            "name": "OTROS DELITOS DEL C.P.F.",
+            "value": 71
+          },
+          {
+            "name": "PATRIMONIALES",
+            "value": 212
+          },
+          {
+            "name": "VIAS DE COMUNICACION Y CORRESPONDENCIA",
+            "value": 1
+          }
+        ]
+      }
+    ]
+  }
+]

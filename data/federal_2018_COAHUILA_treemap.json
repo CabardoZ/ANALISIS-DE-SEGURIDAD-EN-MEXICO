@@ -1,0 +1,128 @@
+[
+  {
+    "name": "COAHUILA · 2018",
+    "children": [
+      {
+        "name": "CONTRA LA SALUD",
+        "children": [
+          {
+            "name": "COMERCIO",
+            "value": 3
+          },
+          {
+            "name": "OTROS",
+            "value": 107
+          },
+          {
+            "name": "POSESION",
+            "value": 28
+          },
+          {
+            "name": "PRODUCCION",
+            "value": 5
+          },
+          {
+            "name": "SUMINISTRO",
+            "value": 4
+          },
+          {
+            "name": "TRAFICO",
+            "value": 3
+          }
+        ]
+      },
+      {
+        "name": "LEY FEDERAL CONTRA LA DELINCUENCIA ORGANIZADA (L.F.C.D.O.)",
+        "children": [
+          {
+            "name": "CONTRA LA SALUD",
+            "value": 1
+          }
+        ]
+      },
+      {
+        "name": "LEY GENERAL DE SALUD (L.G.S.)",
+        "children": [
+          {
+            "name": "OTROS DELITOS PREVISTOS EN LA L.G.S.",
+            "value": 3
+          }
+        ]
+      },
+      {
+        "name": "OTRAS LEYES Y CODIGOS",
+        "children": [
+          {
+            "name": "CODIGO FISCAL DE LA FEDERACION (C.F.F.)",
+            "value": 138
+          },
+          {
+            "name": "LEY DE LA PROPIEDAD INDUSTRIAL (L.P.I.)",
+            "value": 12
+          },
+          {
+            "name": "LEY DE MIGRACION",
+            "value": 81
+          },
+          {
+            "name": "LEY DE VIAS GENERALES DE COMUNICACION (L.V.G.C.)",
+            "value": 87
+          },
+          {
+            "name": "LEY FEDERAL DE ARMAS DE FUEGO Y EXPLOSIVOS (L.F.A.F.E.)",
+            "value": 185
+          },
+          {
+            "name": "LEYES DE INSTITUCIONES DE CREDITO, INVERSION, FIANZAS Y SEGUROS",
+            "value": 20
+          },
+          {
+            "name": "OTRAS LEYES ESPECIALES",
+            "value": 102
+          }
+        ]
+      },
+      {
+        "name": "OTROS DELITOS",
+        "children": [
+          {
+            "name": "COMETIDOS POR SERVIDORES PUBLICOS",
+            "value": 29
+          },
+          {
+            "name": "CONTRA EL AMBIENTE Y LA GESTION AMBIENTAL",
+            "value": 8
+          },
+          {
+            "name": "CONTRA LA INTEGRIDAD CORPORAL",
+            "value": 9
+          },
+          {
+            "name": "ELECTORALES",
+            "value": 1
+          },
+          {
+            "name": "EN MATERIA DE DERECHOS DE AUTOR",
+            "value": 2
+          },
+          {
+            "name": "FALSEDAD, TITULO DECIMO TERCERO",
+            "value": 44
+          },
+          {
+            "name": "OTROS DELITOS DEL C.P.F.",
+            "value": 103
+          },
+          {
+            "name": "PATRIMONIALES",
+            "value": 454
+          },
+          {
+            "name": "VIAS DE COMUNICACION Y CORRESPONDENCIA",
+            "value": 10
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,111 @@
+[
+  {
+    "name": "QUINTANA_ROO · 2025",
+    "children": [
+      {
+        "name": "CONTRA LA SALUD",
+        "children": [
+          {
+            "name": "COMERCIO",
+            "value": 1
+          },
+          {
+            "name": "POSESION",
+            "value": 43
+          },
+          {
+            "name": "TRAFICO",
+            "value": 7
+          },
+          {
+            "name": "TRANSPORTE",
+            "value": 3
+          }
+        ]
+      },
+      {
+        "name": "LEY FEDERAL CONTRA LA DELINCUENCIA ORGANIZADA (L.F.C.D.O.)",
+        "children": [
+          {
+            "name": "OTROS DELITOS PREVISTOS EN LA L.F.C.D.O.",
+            "value": 8
+          }
+        ]
+      },
+      {
+        "name": "OTRAS LEYES Y CODIGOS",
+        "children": [
+          {
+            "name": "CODIGO FISCAL DE LA FEDERACION (C.F.F.)",
+            "value": 18
+          },
+          {
+            "name": "LEY DE LA PROPIEDAD INDUSTRIAL (L.P.I.)",
+            "value": 4
+          },
+          {
+            "name": "LEY DE MIGRACION",
+            "value": 2
+          },
+          {
+            "name": "LEY DE VIAS GENERALES DE COMUNICACION (L.V.G.C.)",
+            "value": 1
+          },
+          {
+            "name": "LEY FEDERAL DE ARMAS DE FUEGO Y EXPLOSIVOS (L.F.A.F.E.)",
+            "value": 136
+          },
+          {
+            "name": "LEY FEDERAL PARA PREVENIR Y SANCIONAR LOS DELITOS COMETIDOS EN MATERIA DE HIDROCARBUROS (L.F.P.S.D.C.M.H.)",
+            "value": 5
+          },
+          {
+            "name": "LEY GENERAL EN MATERIA DE DELITOS ELECTORALES (L.G.M.D.E.)",
+            "value": 3
+          },
+          {
+            "name": "LEYES DE INSTITUCIONES DE CREDITO, INVERSION, FIANZAS Y SEGUROS",
+            "value": 8
+          },
+          {
+            "name": "OTRAS LEYES ESPECIALES",
+            "value": 29
+          }
+        ]
+      },
+      {
+        "name": "OTROS DELITOS",
+        "children": [
+          {
+            "name": "COMETIDOS POR SERVIDORES PUBLICOS",
+            "value": 45
+          },
+          {
+            "name": "CONTRA EL AMBIENTE Y LA GESTION AMBIENTAL",
+            "value": 29
+          },
+          {
+            "name": "CONTRA LA INTEGRIDAD CORPORAL",
+            "value": 3
+          },
+          {
+            "name": "EN MATERIA DE DERECHOS DE AUTOR",
+            "value": 1
+          },
+          {
+            "name": "FALSEDAD, TITULO DECIMO TERCERO",
+            "value": 24
+          },
+          {
+            "name": "OTROS DELITOS DEL C.P.F.",
+            "value": 24
+          },
+          {
+            "name": "PATRIMONIALES",
+            "value": 178
+          }
+        ]
+      }
+    ]
+  }
+]

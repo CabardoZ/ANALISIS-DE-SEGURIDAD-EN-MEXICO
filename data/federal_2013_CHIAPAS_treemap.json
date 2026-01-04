@@ -1,0 +1,144 @@
+[
+  {
+    "name": "CHIAPAS · 2013",
+    "children": [
+      {
+        "name": "CONTRA LA SALUD",
+        "children": [
+          {
+            "name": "COMERCIO",
+            "value": 46
+          },
+          {
+            "name": "OTROS",
+            "value": 88
+          },
+          {
+            "name": "POSESION",
+            "value": 22
+          },
+          {
+            "name": "PRODUCCION",
+            "value": 8
+          },
+          {
+            "name": "SUMINISTRO",
+            "value": 3
+          },
+          {
+            "name": "TRAFICO",
+            "value": 14
+          },
+          {
+            "name": "TRANSPORTE",
+            "value": 48
+          }
+        ]
+      },
+      {
+        "name": "LEY FEDERAL CONTRA LA DELINCUENCIA ORGANIZADA (L.F.C.D.O.)",
+        "children": [
+          {
+            "name": "CONTRA LA SALUD",
+            "value": 1
+          },
+          {
+            "name": "OTROS DELITOS PREVISTOS EN LA L.F.C.D.O.",
+            "value": 23
+          }
+        ]
+      },
+      {
+        "name": "LEY GENERAL DE SALUD (L.G.S.)",
+        "children": [
+          {
+            "name": "CONTRA LA SALUD EN SU MODALIDAD DE NARCOMENUDEO",
+            "value": 155
+          },
+          {
+            "name": "OTROS DELITOS PREVISTOS EN LA L.G.S.",
+            "value": 43
+          }
+        ]
+      },
+      {
+        "name": "OTRAS LEYES Y CODIGOS",
+        "children": [
+          {
+            "name": "CODIGO FISCAL DE LA FEDERACION (C.F.F.)",
+            "value": 181
+          },
+          {
+            "name": "LEY DE LA PROPIEDAD INDUSTRIAL (L.P.I.)",
+            "value": 34
+          },
+          {
+            "name": "LEY DE MIGRACION",
+            "value": 224
+          },
+          {
+            "name": "LEY DE VIAS GENERALES DE COMUNICACION (L.V.G.C.)",
+            "value": 189
+          },
+          {
+            "name": "LEY FEDERAL DE ARMAS DE FUEGO Y EXPLOSIVOS (L.F.A.F.E.)",
+            "value": 352
+          },
+          {
+            "name": "LEY FEDERAL DEL DERECHO DE AUTOR (L.F.D.A.)",
+            "value": 1
+          },
+          {
+            "name": "LEYES DE INSTITUCIONES DE CREDITO, INVERSION, FIANZAS Y SEGUROS",
+            "value": 3
+          },
+          {
+            "name": "OTRAS LEYES ESPECIALES",
+            "value": 99
+          }
+        ]
+      },
+      {
+        "name": "OTROS DELITOS",
+        "children": [
+          {
+            "name": "COMETIDOS POR SERVIDORES PUBLICOS",
+            "value": 82
+          },
+          {
+            "name": "CONTRA EL AMBIENTE Y LA GESTION AMBIENTAL",
+            "value": 131
+          },
+          {
+            "name": "CONTRA LA INTEGRIDAD CORPORAL",
+            "value": 6
+          },
+          {
+            "name": "ELECTORALES",
+            "value": 14
+          },
+          {
+            "name": "EN MATERIA DE DERECHOS DE AUTOR",
+            "value": 16
+          },
+          {
+            "name": "FALSEDAD, TITULO DECIMO TERCERO",
+            "value": 129
+          },
+          {
+            "name": "OTROS DELITOS DEL C.P.F.",
+            "value": 180
+          },
+          {
+            "name": "PATRIMONIALES",
+            "value": 255
+          },
+          {
+            "name": "VIAS DE COMUNICACION Y CORRESPONDENCIA",
+            "value": 52
+          }
+        ]
+      }
+    ]
+  }
+]

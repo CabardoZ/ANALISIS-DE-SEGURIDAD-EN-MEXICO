@@ -1,0 +1,290 @@
+[
+  {
+    "Entidad": "Aguascalientes",
+    "Lesiones": 4681.0,
+    "Otros delitos que atentan contra la libertad personal": 377.0,
+    "Homicidio": 260.0,
+    "Extorsión": 110.0,
+    "Corrupción de menores": 70.0,
+    "Otros delitos": 80.0
+  },
+  {
+    "Entidad": "Baja California",
+    "Lesiones": 10303.0,
+    "Otros delitos que atentan contra la libertad personal": 3492.0,
+    "Homicidio": 3352.0,
+    "Otros delitos que atentan contra la vida y la integridad corporal": 2847.0,
+    "Corrupción de menores": 752.0,
+    "Otros delitos": 413.0
+  },
+  {
+    "Entidad": "Baja California Sur",
+    "Lesiones": 2127.0,
+    "Otros delitos que atentan contra la vida y la integridad corporal": 203.0,
+    "Extorsión": 165.0,
+    "Homicidio": 135.0,
+    "Otros delitos que atentan contra la libertad personal": 111.0,
+    "Otros delitos": 64.0
+  },
+  {
+    "Entidad": "Campeche",
+    "Lesiones": 4877.0,
+    "Otros delitos que atentan contra la libertad personal": 337.0,
+    "Otros delitos que atentan contra la vida y la integridad corporal": 337.0,
+    "Homicidio": 233.0,
+    "Extorsión": 90.0,
+    "Otros delitos": 78.0
+  },
+  {
+    "Entidad": "Chiapas",
+    "Lesiones": 1713.0,
+    "Homicidio": 1258.0,
+    "Otros delitos que atentan contra la libertad personal": 169.0,
+    "Otros delitos que atentan contra la vida y la integridad corporal": 147.0,
+    "Otros delitos contra la sociedad": 92.0,
+    "Otros delitos": 125.0
+  },
+  {
+    "Entidad": "Chihuahua",
+    "Lesiones": 7690.0,
+    "Homicidio": 2448.0,
+    "Otros delitos que atentan contra la libertad personal": 1255.0,
+    "Otros delitos que atentan contra la vida y la integridad corporal": 501.0,
+    "Corrupción de menores": 134.0,
+    "Otros delitos": 192.0
+  },
+  {
+    "Entidad": "Ciudad de México",
+    "Lesiones": 11719.0,
+    "Otros delitos que atentan contra la libertad personal": 1983.0,
+    "Otros delitos contra la sociedad": 1747.0,
+    "Homicidio": 1543.0,
+    "Otros delitos que atentan contra la vida y la integridad corporal": 1237.0,
+    "Otros delitos": 1318.0
+  },
+  {
+    "Entidad": "Coahuila de Zaragoza",
+    "Lesiones": 5435.0,
+    "Homicidio": 437.0,
+    "Otros delitos que atentan contra la libertad personal": 73.0,
+    "Otros delitos que atentan contra la vida y la integridad corporal": 66.0,
+    "Extorsión": 35.0,
+    "Otros delitos": 74.0
+  },
+  {
+    "Entidad": "Colima",
+    "Lesiones": 1875.0,
+    "Homicidio": 1042.0,
+    "Otros delitos que atentan contra la libertad personal": 367.0,
+    "Extorsión": 142.0,
+    "Otros delitos contra la sociedad": 92.0,
+    "Otros delitos": 67.0
+  },
+  {
+    "Entidad": "Durango",
+    "Lesiones": 4101.0,
+    "Homicidio": 412.0,
+    "Otros delitos que atentan contra la libertad personal": 164.0,
+    "Extorsión": 66.0,
+    "Feminicidio": 18.0,
+    "Otros delitos": 25.0
+  },
+  {
+    "Entidad": "Guanajuato",
+    "Lesiones": 16560.0,
+    "Homicidio": 5105.0,
+    "Otros delitos que atentan contra la vida y la integridad corporal": 1652.0,
+    "Extorsión": 668.0,
+    "Corrupción de menores": 499.0,
+    "Otros delitos": 64.0
+  },
+  {
+    "Entidad": "Guerrero",
+    "Lesiones": 4299.0,
+    "Homicidio": 1890.0,
+    "Otros delitos que atentan contra la libertad personal": 610.0,
+    "Extorsión": 281.0,
+    "Otros delitos que atentan contra la vida y la integridad corporal": 32.0,
+    "Otros delitos": 69.0
+  },
+  {
+    "Entidad": "Hidalgo",
+    "Lesiones": 6282.0,
+    "Otros delitos que atentan contra la libertad personal": 1818.0,
+    "Homicidio": 629.0,
+    "Extorsión": 232.0,
+    "Otros delitos que atentan contra la vida y la integridad corporal": 186.0,
+    "Otros delitos": 125.0
+  },
+  {
+    "Entidad": "Jalisco",
+    "Lesiones": 13325.0,
+    "Homicidio": 3245.0,
+    "Otros delitos que atentan contra la libertad personal": 1066.0,
+    "Extorsión": 722.0,
+    "Corrupción de menores": 140.0,
+    "Otros delitos": 83.0
+  },
+  {
+    "Entidad": "Michoacán de Ocampo",
+    "Lesiones": 8394.0,
+    "Homicidio": 3584.0,
+    "Otros delitos que atentan contra la libertad personal": 417.0,
+    "Otros delitos que atentan contra la vida y la integridad corporal": 337.0,
+    "Extorsión": 67.0,
+    "Otros delitos": 179.0
+  },
+  {
+    "Entidad": "Morelos",
+    "Lesiones": 3994.0,
+    "Homicidio": 1499.0,
+    "Otros delitos que atentan contra la vida y la integridad corporal": 593.0,
+    "Otros delitos que atentan contra la libertad personal": 219.0,
+    "Extorsión": 154.0,
+    "Otros delitos": 152.0
+  },
+  {
+    "Entidad": "México",
+    "Lesiones": 67805.0,
+    "Otros delitos que atentan contra la libertad personal": 6203.0,
+    "Extorsión": 4411.0,
+    "Homicidio": 4292.0,
+    "Otros delitos contra la sociedad": 3367.0,
+    "Otros delitos": 2175.0
+  },
+  {
+    "Entidad": "Nayarit",
+    "Lesiones": 864.0,
+    "Homicidio": 402.0,
+    "Otros delitos que atentan contra la libertad personal": 92.0,
+    "Corrupción de menores": 33.0,
+    "Otros delitos contra la sociedad": 19.0,
+    "Otros delitos": 55.0
+  },
+  {
+    "Entidad": "Nuevo León",
+    "Lesiones": 9796.0,
+    "Otros delitos que atentan contra la libertad personal": 3885.0,
+    "Homicidio": 1993.0,
+    "Extorsión": 781.0,
+    "Otros delitos que atentan contra la vida y la integridad corporal": 356.0,
+    "Otros delitos": 784.0
+  },
+  {
+    "Entidad": "Oaxaca",
+    "Lesiones": 5981.0,
+    "Homicidio": 2104.0,
+    "Otros delitos contra la sociedad": 638.0,
+    "Otros delitos que atentan contra la libertad personal": 397.0,
+    "Otros delitos que atentan contra la vida y la integridad corporal": 291.0,
+    "Otros delitos": 281.0
+  },
+  {
+    "Entidad": "Puebla",
+    "Lesiones": 7328.0,
+    "Homicidio": 1602.0,
+    "Otros delitos contra la sociedad": 595.0,
+    "Otros delitos que atentan contra la vida y la integridad corporal": 306.0,
+    "Otros delitos que atentan contra la libertad personal": 238.0,
+    "Otros delitos": 256.0
+  },
+  {
+    "Entidad": "Querétaro",
+    "Lesiones": 6492.0,
+    "Otros delitos que atentan contra la vida y la integridad corporal": 1259.0,
+    "Homicidio": 550.0,
+    "Otros delitos contra la sociedad": 386.0,
+    "Extorsión": 254.0,
+    "Otros delitos": 329.0
+  },
+  {
+    "Entidad": "Quintana Roo",
+    "Lesiones": 5499.0,
+    "Homicidio": 1605.0,
+    "Otros delitos que atentan contra la libertad personal": 1050.0,
+    "Otros delitos que atentan contra la vida y la integridad corporal": 416.0,
+    "Corrupción de menores": 157.0,
+    "Otros delitos": 156.0
+  },
+  {
+    "Entidad": "San Luis Potosí",
+    "Lesiones": 4672.0,
+    "Homicidio": 888.0,
+    "Otros delitos que atentan contra la libertad personal": 728.0,
+    "Otros delitos que atentan contra la vida y la integridad corporal": 262.0,
+    "Extorsión": 123.0,
+    "Otros delitos": 90.0
+  },
+  {
+    "Entidad": "Sinaloa",
+    "Lesiones": 4525.0,
+    "Homicidio": 1197.0,
+    "Otros delitos que atentan contra la libertad personal": 1175.0,
+    "Otros delitos que atentan contra la vida y la integridad corporal": 703.0,
+    "Extorsión": 64.0,
+    "Otros delitos": 152.0
+  },
+  {
+    "Entidad": "Sonora",
+    "Lesiones": 3364.0,
+    "Homicidio": 2103.0,
+    "Otros delitos que atentan contra la libertad personal": 734.0,
+    "Otros delitos que atentan contra la vida y la integridad corporal": 436.0,
+    "Otros delitos contra la sociedad": 171.0,
+    "Otros delitos": 187.0
+  },
+  {
+    "Entidad": "Tabasco",
+    "Lesiones": 5075.0,
+    "Homicidio": 790.0,
+    "Otros delitos que atentan contra la vida y la integridad corporal": 653.0,
+    "Otros delitos que atentan contra la libertad personal": 492.0,
+    "Extorsión": 134.0,
+    "Otros delitos": 81.0
+  },
+  {
+    "Entidad": "Tamaulipas",
+    "Lesiones": 4047.0,
+    "Homicidio": 1379.0,
+    "Otros delitos que atentan contra la libertad personal": 613.0,
+    "Otros delitos que atentan contra la vida y la integridad corporal": 299.0,
+    "Extorsión": 116.0,
+    "Otros delitos": 145.0
+  },
+  {
+    "Entidad": "Tlaxcala",
+    "Lesiones": 317.0,
+    "Homicidio": 177.0,
+    "Secuestro": 9.0,
+    "Extorsión": 7.0,
+    "Otros delitos que atentan contra la vida y la integridad corporal": 7.0,
+    "Otros delitos": 6.0
+  },
+  {
+    "Entidad": "Veracruz de Ignacio de la Llave",
+    "Lesiones": 10205.0,
+    "Homicidio": 2063.0,
+    "Extorsión": 857.0,
+    "Otros delitos que atentan contra la libertad personal": 724.0,
+    "Otros delitos que atentan contra la vida y la integridad corporal": 262.0,
+    "Otros delitos": 253.0
+  },
+  {
+    "Entidad": "Yucatán",
+    "Lesiones": 217.0,
+    "Homicidio": 198.0,
+    "Otros delitos que atentan contra la vida y la integridad corporal": 129.0,
+    "Extorsión": 10.0,
+    "Trata de personas": 7.0,
+    "Otros delitos": 17.0
+  },
+  {
+    "Entidad": "Zacatecas",
+    "Lesiones": 2685.0,
+    "Homicidio": 1773.0,
+    "Otros delitos que atentan contra la libertad personal": 793.0,
+    "Extorsión": 527.0,
+    "Otros delitos que atentan contra la vida y la integridad corporal": 421.0,
+    "Otros delitos": 85.0
+  }
+]

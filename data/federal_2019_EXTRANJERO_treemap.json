@@ -1,0 +1,66 @@
+[
+  {
+    "name": "EXTRANJERO · 2019",
+    "children": [
+      {
+        "name": "CONTRA LA SALUD",
+        "children": [
+          {
+            "name": "POSESION",
+            "value": 1
+          },
+          {
+            "name": "SUMINISTRO",
+            "value": 1
+          },
+          {
+            "name": "TRAFICO",
+            "value": 4
+          }
+        ]
+      },
+      {
+        "name": "OTRAS LEYES Y CODIGOS",
+        "children": [
+          {
+            "name": "LEY FEDERAL DE ARMAS DE FUEGO Y EXPLOSIVOS (L.F.A.F.E.)",
+            "value": 2
+          },
+          {
+            "name": "OTRAS LEYES ESPECIALES",
+            "value": 41
+          }
+        ]
+      },
+      {
+        "name": "OTROS DELITOS",
+        "children": [
+          {
+            "name": "COMETIDOS POR SERVIDORES PUBLICOS",
+            "value": 2
+          },
+          {
+            "name": "CONTRA EL AMBIENTE Y LA GESTION AMBIENTAL",
+            "value": 2
+          },
+          {
+            "name": "CONTRA LA INTEGRIDAD CORPORAL",
+            "value": 15
+          },
+          {
+            "name": "FALSEDAD, TITULO DECIMO TERCERO",
+            "value": 13
+          },
+          {
+            "name": "OTROS DELITOS DEL C.P.F.",
+            "value": 16
+          },
+          {
+            "name": "PATRIMONIALES",
+            "value": 22
+          }
+        ]
+      }
+    ]
+  }
+]
